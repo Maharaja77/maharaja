@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/maharaja/static/css/main.6cfae082.css",
+    "main.js": "/maharaja/static/js/main.2466fc0c.js",
+    "static/media/Resumei.png": "/maharaja/static/media/Resumei.e847e5dec0e2a3839523.png",
+    "static/media/pro.png": "/maharaja/static/media/pro.ba9f652e5f0b2bc6c35e.png",
+    "static/media/Developer.png": "/maharaja/static/media/Developer.ce0bf2ba8b20985b8e38.png",
+    "static/media/Aboutimg.png": "/maharaja/static/media/Aboutimg.88c3a68f765c1cc61cee.png",
+    "static/media/eco.png": "/maharaja/static/media/eco.b8c81947a3838654b09e.png",
+    "static/media/silent.png": "/maharaja/static/media/silent.904e4ce81fc66e25b2fb.png",
+    "index.html": "/maharaja/index.html",
+    "main.6cfae082.css.map": "/maharaja/static/css/main.6cfae082.css.map",
+    "main.2466fc0c.js.map": "/maharaja/static/js/main.2466fc0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cfae082.css",
+    "static/js/main.2466fc0c.js"
+  ]
+}
